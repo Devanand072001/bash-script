@@ -1,0 +1,2 @@
+# chmod +x #for executable permission
+#which bash #shows the path of the bash currently used
